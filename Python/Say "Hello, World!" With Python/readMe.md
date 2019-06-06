@@ -1,6 +1,6 @@
 Here is a sample line of code that can be executed in Python:
 
-```bash
+```
 print("Hello, World!")
 ```
 
