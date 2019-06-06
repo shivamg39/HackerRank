@@ -2,9 +2,9 @@ Read an integer **N**.
 
 Without using any string methods, try to print the following:
 
-**123...N**
+**123 . . . N**
 
-Note that "..." represents the values in between.
+Note that ". . ." represents the values in between.
 
 **Input Format**
 
