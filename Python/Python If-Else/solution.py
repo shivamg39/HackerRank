@@ -1,5 +1,3 @@
-#!/bin/python3
-
 N = int(input())
 
 if (N % 2 == 1):
