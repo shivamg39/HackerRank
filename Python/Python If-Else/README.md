@@ -13,28 +13,41 @@ A single line containing a positive integer, n.
 
 **Constraints**
 
-Output Format
+- 1 <= n <= 100
+
+**Output Format**
 
 Print Weird if the number is weird; otherwise, print Not Weird.
 
-Sample Input 0
+**Sample Input 0**
 
+```
 3
-Sample Output 0
+```
 
+**Sample Output 0**
+
+```
 Weird
-Explanation 0
+```
 
- 
- is odd and odd numbers are weird, so we print Weird.
+**Explanation 0**
 
-Sample Input 1
+**n = 3**
+**n** is odd and odd numbers are weird, so we print Weird.
 
+**Sample Input 1**
+
+```
 24
-Sample Output 1
+```
 
+**Sample Output 1**
+
+```
 Not Weird
-Explanation 1
+```
 
- 
- and  is even, so it isn't weird. Thus, we print Not Weird.
+**Explanation 1**
+**n = 24**
+**n > 20** and n is even, so it isn't weird. Thus, we print Not Weird.
