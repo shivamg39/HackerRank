@@ -6,7 +6,7 @@ print("Hello, World!")
 
 You can just as easily store a string as a variable and then print it to stdout:
 
-```bash
+```
 string = "Hello, World!"
 print(my_string)
 ```
@@ -23,6 +23,6 @@ Print Hello, World! to stdout.
 
 Sample Output 0
 
-```bash
+```
 Hello, World!
 ```
