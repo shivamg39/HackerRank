@@ -19,17 +19,23 @@ Read y, the year that needs to be checked.
 
 **Constraints**
 
+**1900 <= y <= 10^5**
+
 **Output Format**
 
 Output is taken care of by the template. Your function must return a boolean value (True/False)
 
 **Sample Input 0**
 
+```
 1990
+```
 
 **Sample Output 0**
 
+```
 False
+```
 
 **Explanation 0**
 
