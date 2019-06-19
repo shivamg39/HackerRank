@@ -5,4 +5,3 @@ if __name__ == '__main__':
     print(any(letter.isdigit() for letter in S))
     print(any(letter.islower()for letter in S))
     print(any(letter.isupper()for letter in S))
-
