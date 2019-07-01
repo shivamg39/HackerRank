@@ -5,3 +5,5 @@ N = set(map(int, input().split()))
 
 for i in sorted(list(M.symmetric_difference(N))):
     print(i)
+
+    
