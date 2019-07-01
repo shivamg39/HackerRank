@@ -14,3 +14,4 @@ total = 0
 for num in s:
     total += num
 print(total)
+
