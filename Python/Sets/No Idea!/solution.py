@@ -11,3 +11,4 @@ for num in n:
     elif (num in b):
         score -= 1
 print(score)
+
