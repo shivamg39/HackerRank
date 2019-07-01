@@ -11,3 +11,5 @@ if __name__ == '__main__':
         avg += mark
 
     print('{:.2f}'.format(avg/3))
+
+    
