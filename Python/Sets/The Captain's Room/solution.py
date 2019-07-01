@@ -12,3 +12,5 @@ s3 = s1.difference(s2)
 
 for num in s3:
     print(num)
+
+    
