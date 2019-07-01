@@ -8,3 +8,4 @@ if s == 1:
     print(False)
 else:
     print(True)
+    
