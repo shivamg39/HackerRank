@@ -19,3 +19,4 @@ for num in A:
     sum += num
 
 print(sum)
+
