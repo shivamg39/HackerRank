@@ -8,3 +8,5 @@ for times in range(int(input())):
         if num not in B:
             subSet = False
     print(subSet)
+
+    
