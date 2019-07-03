@@ -7,3 +7,6 @@ print('WELCOME'.center(width, '-'))
 
 for row in reversed(range(1, height, 2)):
     print(('.|.'*row).center(width, '-'))
+
+    
+    
