@@ -4,3 +4,4 @@ for times in range(int(input())):
 
 print(len(set(stamps)))
 
+
