@@ -16,3 +16,4 @@ for num in s:
 print(total)
 
 
+
