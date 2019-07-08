@@ -12,3 +12,4 @@ for num in n:
         score -= 1
 print(score)
 
+
