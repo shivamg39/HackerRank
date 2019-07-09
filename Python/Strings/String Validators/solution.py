@@ -7,3 +7,5 @@ if __name__ == '__main__':
     print(any(letter.isupper()for letter in S))
 
     
+
+    
