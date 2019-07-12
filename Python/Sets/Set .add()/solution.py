@@ -7,3 +7,4 @@ print(len(set(stamps)))
 
 
 
+
