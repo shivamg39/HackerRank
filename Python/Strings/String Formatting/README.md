@@ -46,3 +46,4 @@ Print **n** lines where each line **i** (in the range **1 <= i <= n**) contains 
    16    20    10 10000
    17    21    11 10001     
 ```
+
