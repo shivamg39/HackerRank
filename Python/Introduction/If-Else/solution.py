@@ -9,3 +9,5 @@ else:
         print("Weird")
     elif (N >= 2 and N <= 5):
         print("Not Weird")
+
+        
