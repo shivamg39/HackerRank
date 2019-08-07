@@ -16,6 +16,7 @@ Mr. Vincent works in a door mat manufacturing company. One day, he designed a ne
     ------.|..|..|.------
     ---------.|.---------
     
+    
     Size: 11 x 33
     ---------------.|.---------------
     ------------.|..|..|.------------
