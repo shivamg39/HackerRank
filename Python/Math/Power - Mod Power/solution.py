@@ -4,3 +4,4 @@ m = int(input())
 
 print(a**b)
 print(pow(a,b,m))
+
